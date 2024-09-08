@@ -41,8 +41,8 @@
   - https://www.youtube.com/@SeleniumExpress/playlists
   - https://www.youtube.com/@Java.Brains/playlists?view=50&sort=dd&shelf_id=7
 
-**mix between giving knowledge and practice
-  - https://www.youtube.com/watch?v=Nv2DERaMx-4&t=2985s
+**mix between knowledge and practice**
+  - [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners](https://www.youtube.com/watch?v=Nv2DERaMx-4&t=2985s)
 
 **Task:**
 - What is the web service?
