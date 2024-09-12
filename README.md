@@ -49,3 +49,30 @@
 - Comparison between REST & SOAP.
 - Search for Bean Scopes.
 - Search for how to resolve the issue of dependency injection for multiple interface implementations using @Autowired.
+
+
+## Session#2
+
+- web service (Rest & Soap) >> Rest Methods
+- Maven (generate runnable jar / generate documentation)
+
+**Annotations:** ``@Primary``, ``@Qualifier``
+
+[Maven Tutorial](https://youtu.be/Xatr8AZLOsE)
+[Maven Complete Tutorial](https://youtu.be/JhSBS2OpGdU)
+
+[Maven Repository](https://mvnrepository.com/)
+
+
+## Session#3
+
+- Consume Rest APIs (signIn)
+- Postman
+
+**Annotations:** ``@Controller``, ``@ResponseBody``, ``@RestController``, ``@RequestMethod``, ``@PathVariable``, ``@RequestParam``, ``@GetMapping``, ``@PostMapping``, ``@RequestHeader``
+
+**Task**
+- What is the Bean life cycle?
+- search for @RequestHeader
+
+(Relational Database)[https://youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF&si=YpNs8W6qoSPlzjrd]
