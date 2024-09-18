@@ -89,13 +89,12 @@ ___
 - Intro to JPA & Hibernate
 - Table generation
 
--[DatabaseConnection](https://docs.oracle.com/cd/E19509-01/820-3497/agqka/index.html)
-
 **Refrence:** 
+[DatabaseConnection](https://docs.oracle.com/cd/E19509-01/820-3497/agqka/index.html)
 -[Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query.other-methods)
 
 
   **Annotations:** ``@Entity``, ``@Table``, `` @Id``, ``@Column``
   
-**Review tis video**
+**Review tis video:**
 - [Entity Relationship Diagram](https://youtu.be/CZ46r29kyQw)
