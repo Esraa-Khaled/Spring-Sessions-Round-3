@@ -50,6 +50,7 @@
 - Search for Bean Scopes.
 - Search for how to resolve the issue of dependency injection for multiple interface implementations using @Autowired.
 
+___
 
 ## Session#2
 
@@ -63,6 +64,7 @@
 
 [Maven Repository](https://mvnrepository.com/)
 
+___
 
 ## Session#3
 
@@ -76,3 +78,24 @@
 - search for @RequestHeader
 
 [Relational Database](https://youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF&si=YpNs8W6qoSPlzjrd)
+
+___
+
+## Session#4
+
+- override system properties
+- Connect to database using Jdbc & JdbcTemplate
+- ORM
+- Intro to JPA & Hibernate
+- Table generation
+
+-[DatabaseConnection](https://docs.oracle.com/cd/E19509-01/820-3497/agqka/index.html)
+
+**Refrence:** 
+-[Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query.other-methods)
+
+
+  **Annotations:** ``@Entity``, ``@Table``, `` @Id``, ``@Column``
+  
+**Review tis video**
+- [Entity Relationship Diagram](https://youtu.be/CZ46r29kyQw)
