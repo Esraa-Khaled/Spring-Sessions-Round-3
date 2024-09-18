@@ -1,0 +1,17 @@
+#database_username :
+#  postgres
+#database_url:
+#  jdbc:postgresql://localhost:5432/sessions
+#database_password:
+#  hggi
+
+
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sessions
+    password: hggi
+    username: postgres
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
