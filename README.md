@@ -109,5 +109,5 @@ ___
 - Migrate to JPA repository
 - Response Entity
 
-- **Annotations:** ``@GeneratedValue``, ``@SequenceGenerator``, 
+**Annotations:** ``@GeneratedValue``, ``@SequenceGenerator``, 
  ``@TableGenerator``, ``@Pattern``, ``@Tranisnt``, ``@Repository``, ``@Query``
