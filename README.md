@@ -96,7 +96,6 @@ ___
 
   **Annotations:** ``@Entity``, ``@Table``, `` @Id``, ``@Column``
   
-**Review tis video:**
 - [Entity Relationship Diagram](https://youtu.be/CZ46r29kyQw)
 
 ___
