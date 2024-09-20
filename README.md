@@ -98,3 +98,16 @@ ___
   
 **Review tis video:**
 - [Entity Relationship Diagram](https://youtu.be/CZ46r29kyQw)
+
+___
+
+## Session#5
+- ID generation strategies
+- Column constraints
+- Transient columns
+- Implement custom CRUD operations Repository
+- Migrate to JPA repository
+- Response Entity
+
+- **Annotations:** ``@GeneratedValue``, ``@SequenceGenerator``, 
+ ``@TableGenerator``, ``@Pattern``, ``@Tranisnt``, ``@Repository``, ``@Query``
