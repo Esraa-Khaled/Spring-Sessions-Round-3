@@ -91,7 +91,7 @@ ___
 
 **Refrence:** 
 [DatabaseConnection](https://docs.oracle.com/cd/E19509-01/820-3497/agqka/index.html)
--[Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query.other-methods)
+[Spring Data JPA](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query.other-methods)
 
 
   **Annotations:** ``@Entity``, ``@Table``, `` @Id``, ``@Column``
@@ -108,6 +108,8 @@ ___
 - Implement custom CRUD operations Repository
 - Migrate to JPA repository
 - Response Entity
+
+[Difference Between @Size, @Length, and @Column(length=value)](https://www.baeldung.com/jpa-size-length-column-differences)
 
 **Annotations:** ``@GeneratedValue``, ``@SequenceGenerator``, 
  ``@TableGenerator``, ``@Pattern``, ``@Tranisnt``, ``@Repository``, ``@Query``
