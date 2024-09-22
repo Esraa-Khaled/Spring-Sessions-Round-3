@@ -2,7 +2,7 @@
 
 
 **@Transactionl:** 
-- The @Transactional annotaionIs is used to mark a method or a class as transactional ```(method annotation ovrrides class annotation)```, meaning that any database operations performed within the marked method or class will be executed within a transaction. If the transaction is successful, the changes will be committed to the database. If an error occurs and the transaction is rolled back, the changes will not be persisted in the database.
+- The ``@Transactional`` annotaionIs is used to mark a method or a class as transactional ```(method annotation ovrrides class annotation)```, meaning that any database operations performed within the marked method or class will be executed within a transaction. If the transaction is successful, the changes will be committed to the database. If an error occurs and the transaction is rolled back, the changes will not be persisted in the database.
 
 ## 1- Rollback Mechanism:
 - By Default it rollsback if the thrown Exception is RuntimeException not check Exception.
