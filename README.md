@@ -108,7 +108,26 @@ ___
 - Migrate to JPA repository
 - Response Entity
 
-[Difference Between @Size, @Length, and @Column(length=value)](https://www.baeldung.com/jpa-size-length-column-differences)
+**Refrences:**
+- [Response Entity](https://www.baeldung.com/spring-response-entity)
+- [Difference Between @Size, @Length, and @Column(length=value)](https://www.baeldung.com/jpa-size-length-column-differences)
 
 **Annotations:** ``@GeneratedValue``, ``@SequenceGenerator``, 
  ``@TableGenerator``, ``@Pattern``, ``@Tranisnt``, ``@Repository``, ``@Query``
+
+  ____
+  
+## Session#6
+
+- JPA Relations (Uni & Bidirectional mapping)
+- JPA cascading operations
+- Hibernate entity Lifecycle
+
+**Refrences:**
+- [Entity Relationship Diagram](https://youtu.be/CZ46r29kyQw)
+- [Hibernate/JPA One-to-Many Mappings](https://howtodoinjava.com/hibernate/hibernate-one-to-many-mapping/)
+- [Jackson – Bidirectional Relationships](https://www.baeldung.com/jackson-bidirectional-relationships-and-infinite-recursion)
+- [JPA Cascading Operations](https://www.javatpoint.com/jpa-cascading-operations)
+- [Hibernate Entity LifeCycle](https://howtodoinjava.com/hibernate/hibernate-entity-persistence-lifecycle-states/)
+  
+**Annotations:** ``@Lob``, ``@OneToMany``, ``@ManyToOne``, ``@JoinColumn``, ``@JsonManagedReference``, ``@JsonBackReference``, ``@JsonIgnore``
