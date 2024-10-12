@@ -131,3 +131,17 @@ ___
 - [Hibernate Entity LifeCycle](https://howtodoinjava.com/hibernate/hibernate-entity-persistence-lifecycle-states/)
   
 **Annotations:** ``@Lob``, ``@OneToMany``, ``@ManyToOne``, ``@JoinColumn``, ``@JsonManagedReference``, ``@JsonBackReference``, ``@JsonIgnore``
+
+____
+
+## Session#7
+
+- Caching in spring
+- Caching using Redis (Remote Dictionary Server)
+
+**Links:**
+- [A Guide To Caching in Spring](https://www.baeldung.com/spring-cache-tutorial)
+- [Spring Data Redis as Cache](https://www.youtube.com/watch?v=AiNL1X-dhkc)
+ 
+**Annotations:** ``@EnableCaching``, ``@Cacheable``, ``@CacheEvict``
+
