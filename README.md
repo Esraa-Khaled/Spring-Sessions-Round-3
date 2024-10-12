@@ -160,7 +160,7 @@ _____
 
 ## Session#9
 
-- Global Exception Handeler
+- Global Exception Handler
 
 **Refrences:**
 - [Spring Boot - Exception Handling](https://www.tutorialspoint.com/spring_boot/spring_boot_exception_handling.htm)
