@@ -156,3 +156,15 @@ _____
  
 **Annotations:** ``@EnableAspectJAutoProxy``, ``@Aspect``, ``@Order``, ``@Before``, ``@After``, ``@AfterReturning`` ,``@AfterThrowing``, ``@Around``, ``@Pointcut``
 
+_____
+
+## Session#9
+
+- Global Exception Handeler
+
+**Refrences:**
+- [Spring Boot - Exception Handling](https://www.tutorialspoint.com/spring_boot/spring_boot_exception_handling.htm)
+- [Understanding Spring’s @ControllerAdvice](https://medium.com/@jovannypcg/understanding-springs-controlleradvice-cd96a364033f)
+
+**Annotations:** ``@ControllerAdvice``, ``@ExceptionHandler``
+
